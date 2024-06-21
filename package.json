@@ -2,6 +2,7 @@
   "name": "ckeditor-custom-package",
   "version": "1.0.0",
   "main": "index.js",
+  "types": "index.d.ts",
   "dependencies": {
     "@ckeditor/ckeditor5-alignment": "^41.4.2",
     "@ckeditor/ckeditor5-autoformat": "^41.4.2",
