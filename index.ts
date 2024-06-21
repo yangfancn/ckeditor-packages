@@ -1,4 +1,4 @@
-export { Alignment } from '@ckeditor/ckeditor5-alignment';
+import { Alignment } from '@ckeditor/ckeditor5-alignment';
 // export { Autoformat } from '@ckeditor/ckeditor5-autoformat';
 // export { Bold, Code, Italic, Strikethrough, Subscript, Superscript, Underline } from '@ckeditor/ckeditor5-basic-styles';
 // export { BlockQuote } from '@ckeditor/ckeditor5-block-quote';
@@ -27,3 +27,7 @@ export { Alignment } from '@ckeditor/ckeditor5-alignment';
 // export { Undo } from '@ckeditor/ckeditor5-undo';
 // export { SimpleUploadAdapter } from '@ckeditor/ckeditor5-upload';
 // export { WordCount } from '@ckeditor/ckeditor5-word-count';
+
+export default {
+    Alignment
+}
