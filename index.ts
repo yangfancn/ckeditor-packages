@@ -8,7 +8,7 @@ export { FindAndReplace } from '@ckeditor/ckeditor5-find-and-replace';
 export { FontColor, FontFamily, FontSize } from '@ckeditor/ckeditor5-font';
 export { Heading } from '@ckeditor/ckeditor5-heading';
 export { HorizontalLine } from '@ckeditor/ckeditor5-horizontal-line';
-export { HtmlSupport } from '@ckeditor/ckeditor5-html-support';
+export { GeneralHtmlSupport } from '@ckeditor/ckeditor5-html-support';
 export { Image, ImageCaption, ImageStyle, ImageToolbar, ImageUpload } from '@ckeditor/ckeditor5-image';
 export { Indent } from '@ckeditor/ckeditor5-indent';
 export { Link } from '@ckeditor/ckeditor5-link';
