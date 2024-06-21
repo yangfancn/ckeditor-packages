@@ -1,4 +1,3 @@
-// index.js
 export { default as Alignment } from '@ckeditor/ckeditor5-alignment/src/alignment';
 export { default as Autoformat } from '@ckeditor/ckeditor5-autoformat/src/autoformat';
 export { default as Bold } from '@ckeditor/ckeditor5-basic-styles/src/bold';
@@ -40,5 +39,5 @@ export { default as TableColumnResize } from '@ckeditor/ckeditor5-table/src/tabl
 export { default as TableProperties } from '@ckeditor/ckeditor5-table/src/tableproperties';
 export { default as Typing } from '@ckeditor/ckeditor5-typing/src/typing';
 export { default as Undo } from '@ckeditor/ckeditor5-undo/src/undo';
-export { default as Upload } from '@ckeditor/ckeditor5-upload/src/upload';
+export { default as ImageUpload } from '@ckeditor/ckeditor5-upload/src/imageupload';
 export { default as WordCount } from '@ckeditor/ckeditor5-word-count/src/wordcount';

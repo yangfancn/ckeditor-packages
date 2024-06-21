@@ -23,6 +23,7 @@ declare module 'ckeditor-plugins' {
     export const ImageStyle: Plugin;
     export const ImageToolbar: Plugin;
     export const ImageResize: Plugin;
+    export const ImageUpload: Plugin;
     export const Indent: Plugin;
     export const Link: Plugin;
     export const List: Plugin;
@@ -43,6 +44,5 @@ declare module 'ckeditor-plugins' {
     export const TableProperties: Plugin;
     export const Typing: Plugin;
     export const Undo: Plugin;
-    export const Upload: Plugin;
     export const WordCount: Plugin;
 }
